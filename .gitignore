@@ -43,6 +43,9 @@ DerivedData/
 *.dSYM.zip
 *.dSYM
 
+## VSCode
+.vscode
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
