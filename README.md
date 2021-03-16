@@ -27,6 +27,6 @@ You will need to install the necessary packages in order to run the application,
 pod install
 ```
 ## Screenshots
-![Welcome Screen](Screenshots/welcome-screen.png)
-![Chat Screen](Screenshots/chat-screen.png)
+ <img src="https://i.ibb.co/HhqbrLz/welcome-screen.png" height=400>
+ <img src="https://i.ibb.co/ZV1P2g8/chat-screen.png" height=400>
 
