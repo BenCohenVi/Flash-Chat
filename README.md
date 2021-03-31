@@ -4,9 +4,6 @@ A chat application for iOS app using Storyboards, has a user base and a database
 ## Motivation
 I created this projected for learning purposes, I used quite a lot of technologies I didn't have experience with and learned many things in relation of iOS app development.
  
-## Screenshots
-Include logo/demo screenshot etc.
-
 ## Tech/framework used
 - XCode
 - Swift
